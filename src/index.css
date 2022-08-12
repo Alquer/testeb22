@@ -1,0 +1,10 @@
+body{
+    background-color: aqua;
+    color: blueviolet;
+}
+
+h1,h2,h3{
+    font-weight: bolder;
+    margin: 4px;
+    text-align: center;
+}
